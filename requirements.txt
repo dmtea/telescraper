@@ -1,0 +1,17 @@
+beautifulsoup4
+lxml
+
+asyncio
+aiofiles
+aiocsv
+
+httpx
+httpx[brotli]
+httpx[http2]
+httpx[cli]
+
+aiogram
+
+pandas
+
+redis
