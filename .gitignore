@@ -1,0 +1,11 @@
+__pycache__
+.vscode
+
+.direnv
+venv
+.envrc
+
+data/*
+logs/*
+
+tmp_*
