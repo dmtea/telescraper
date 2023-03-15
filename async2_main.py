@@ -138,9 +138,8 @@ def collect_page_products(html_src: str, page_number, allproductsflag=False) -> 
 
     return all_cards, next_parse_flag
 
+
 # Collect all available products data from catalog
-
-
 async def collect_data(url, parse_all=False):
 
     all_products = []
@@ -178,9 +177,8 @@ async def collect_data(url, parse_all=False):
 
     return csvfilename
 
+
 # Scrap proccess function
-
-
 async def scrap_it():
 
     print("Start new scraping process ...")
