@@ -11,8 +11,8 @@ Would update it in future with some new features:
 - multi-lang
 - etc (have a big list of thoughts - would upload it a little later)
 
-### Need new feautures or want to develop other bot or whatelse?
+### Need new features or want to develop other bot or whatelse?
 
-Write me on telegram @tatradev
+Write me on telegram [@tatradev](https://t.me/tatradev)
 
 Have a good time ^-.-^
